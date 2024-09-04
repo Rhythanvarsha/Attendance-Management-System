@@ -5,10 +5,15 @@ Required Modules and Packages:
 To build the Attendance Management System, the following modules and packages are required:
 
 ##Java Development Kit (JDK): The essential toolkit for Java development.
+
 ##Servlet API: For handling server-side business logic.
+
 ##JSP API: To develop the user interface with dynamic content.
+
 ##JDBC API: For database connectivity.
+
 ##Apache Tomcat: A web server to deploy and run your Java web applications.
+
 ##MySQL/PostgreSQL: A relational database to store attendance records.
 How to Run the Code:
 To run the Attendance Management System, follow these steps:
